@@ -9,6 +9,11 @@
 <body>
     <h1>¡Hola, mundo!</h1>
     <p>Esta es mi primera página web, gestionada con Git.</p>
-    <img src="imagen.jpg" alt="Una imagen de ejemplo para la web" style="max-width: 100%; height: auto;">
+    <img src="imagen.jpg" alt="Una imagen de ejemplo para la web" style="max-width: 100%; height:         auto;">
+     
 </body>
+<footer>
+        <p>Empresa: Mi Empresa de Ejemplo</p>
+        <p>Contacto: <a href="cristian:contacto@ejemplo.com">cristian@ejemplo.com</a></p>
+</footer>
 </html>
