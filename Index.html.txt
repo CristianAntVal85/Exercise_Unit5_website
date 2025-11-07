@@ -9,6 +9,8 @@
 <body>
     <h1>¡Hola, mundo!</h1>
     <p>Esta es mi primera página web, gestionada con Git.</p>
+    <h2>Bienvenido a nuestra página principal</h2>
+    <p>Aquí encontrarás las últimas novedades y enlaces interesantes.</p>
     <img src="imagen.jpg" alt="Una imagen de ejemplo para la web" style="max-width: 100%; height:         auto;">
      
 </body>
