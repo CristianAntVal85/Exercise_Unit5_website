@@ -1,0 +1,46 @@
+[33mtag v1.1[m
+Tagger: Cristian Anton <cristian.ant.val@gmail.com>
+Date:   Fri Nov 7 17:38:45 2025 +0100
+
+Version 1.1 - Added CSS styling
+
+[33mcommit 8a7d18b4cc66a52ca6753ef6b3fb8a68bcc99524[m[33m ([m[1;33mtag: [m[1;33mv1.1[m[33m)[m
+Author: Cristian Anton <cristian.ant.val@gmail.com>
+Date:   Fri Nov 7 16:37:38 2025 +0100
+
+    Initial web page and styling
+
+[1mdiff --git a/Index.html.txt b/Index.html.txt[m
+[1mindex 5f5b9c0..455ed89 100644[m
+[1m--- a/Index.html.txt[m
+[1m+++ b/Index.html.txt[m
+[36m@@ -1,6 +1,7 @@[m
+ <!DOCTYPE html>[m
+ <html lang="es">[m
+ <head>[m
+[32m+[m[32m    <link rel="stylesheet" type="text/css" href="styles.css">[m
+     <meta charset="UTF-8">[m
+     <meta name="viewport" content="width=device-width, initial-scale=1.0">[m
+     <title>Mi Primera Página Web con Git</title>[m
+[1mdiff --git a/styles.css.txt b/styles.css.txt[m
+[1mnew file mode 100644[m
+[1mindex 0000000..e6a66b3[m
+[1m--- /dev/null[m
+[1m+++ b/styles.css.txt[m
+[36m@@ -0,0 +1,15 @@[m
+[32m+[m[32mbody {[m
+[32m+[m[32m    font-family: Arial, sans-serif;[m
+[32m+[m[32m    background-color: #f4f4f4;[m
+[32m+[m[32m    color: #333;[m
+[32m+[m[32m    margin: 20px;[m
+[32m+[m[32m    line-height: 1.6;[m
+[32m+[m[32m}[m
+[32m+[m
+[32m+[m[32mh1 {[m
+[32m+[m[32m    color: #0056b3;[m
+[32m+[m[32m}[m
+[32m+[m
+[32m+[m[32mp {[m
+[32m+[m[32m    font-size: 1.1em;[m
+[32m+[m[32m}[m
+\ No newline at end of file[m

@@ -13,7 +13,7 @@
     <h2>Bienvenido a nuestra página principal</h2>
     <p>¡Aquí hay una actualización importante en la página principal!</p>
     <p>Aquí encontrarás las últimas novedades y enlaces interesantes.</p>
-	<img src="imagen.jpg" alt="Una imagen de ejemplo para la web" style="max-width: 100%; height:         auto;">
+    <img src="picture.jpg" alt="Una imagen de ejemplo para la web">
      
 </body>
 <footer>
